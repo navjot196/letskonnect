@@ -12,6 +12,9 @@ banner:
     label: Learn More
     url: '#one'
   subtitle: >-
+    ![](/images/banner.jpg)
+
+
     The social media websites are developed to connect people with each other
     and get feedback of customers to do better in future. we will provide
     flexibility,security as well as fulfill the needs of customers. Our mission
