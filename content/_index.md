@@ -3,8 +3,8 @@ title: Home
 banner:
   actions: []
   bottom_link:
-    has_arrow: true
-    is_scrolly: true
+    has_arrow: false
+    is_scrolly: false
     label: ''
     url: ''
   subtitle: >-
