@@ -11,10 +11,12 @@ banner:
     is_scrolly: true
     label: Learn More
     url: '#one'
-  subtitle: |-
-    Blandit duis accumsan  
-    arcu sagittis viverra  
-    blandit at Interdum.
+  subtitle: >-
+    The social media websites are developed to connect people with each other
+    and get feedback of customers to do better in future. we will provide
+    flexibility,security as well as fulfill the needs of customers. Our mission
+    will be to see my websites in the category of most used websites all over
+    the world in next 1st,3rd and 5th year.
   title: Let's Konnect
 sections:
   - background_style: style1
