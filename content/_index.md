@@ -8,7 +8,7 @@ banner:
     label: ''
     url: ''
   subtitle: >-
-    ![](/images/pic02.jpg)
+    ![](/images/hom.jpg)
 
 
     The social media websites are developed to connect people with each other
