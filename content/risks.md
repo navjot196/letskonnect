@@ -1,17 +1,11 @@
 ---
 title: Risks
 subtitle: >-
-  ![](/images/pic01.jpg "Technology Risk:")
-
-
   Risks in social media websites venture are technology, market, financial,
   government and team:
 
 
-  ****
-
-
-  ![](/images/pic02.jpg)
+  **Technology Risk:**
 
 
   In these days, technology develops on regular basis so if we do not go with
@@ -32,18 +26,16 @@ subtitle: >-
   **Market Risk**:
 
 
+  It can be also a big risk in social media website venture because there are
+  lot of websites
 
 
-  ![](/images/pic04.jpg "Government Risk:  Before starting a business, we need
-  to get permission from the higher authority. If they approve,  only then we
-  can go further with our business so if government does not give permission 
-  regarding the business then we cannot launch our products in market.")
+  available in the market and all have different features and different
+  technology. Similar
 
 
-  ![](/images/pic02.jpg "Government Risk:  Before starting a business, we need
-  to get permission from the higher authority. If they approve,  only then we
-  can go further with our business so if government does not give permission 
-  regarding the business then we cannot launch our products in market.")
+  websites can be strong competition for our business in market and it can
+  reduce our customers.
 
 
   **Financial Risk:**
