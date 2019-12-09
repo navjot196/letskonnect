@@ -5,8 +5,8 @@ banner:
   bottom_link:
     has_arrow: true
     is_scrolly: true
-    label: Learn More
-    url: '#one'
+    label: ''
+    url: ''
   subtitle: >-
     ![](/images/pic02.jpg)
 
