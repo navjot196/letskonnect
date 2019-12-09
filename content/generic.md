@@ -1,6 +1,9 @@
 ---
 title: Vision
 subtitle: >-
+  ![](/images/vision.jpg)
+
+
   My vision statement for my venture is to provide transparency, security,
   required accessibility, flexibility and to fulfilling the demands of
   customers. I am passionate about my business to launch and learn new things
