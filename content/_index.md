@@ -12,7 +12,10 @@ banner:
     label: Learn More
     url: '#one'
   subtitle: >-
-    ![](/images/1.jpg)
+    ![](/images/banner.jpg)
+
+
+    ![](/images/pic02.jpg)
 
 
     The social media websites are developed to connect people with each other
