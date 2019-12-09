@@ -1,11 +1,7 @@
 ---
 title: Risks
 subtitle: >-
-  ![](/images/tr.jpg "Market Risk:It can be also a big risk in social media
-  website venture because there are lot of websitesavailable in the market and
-  all have different features and different technology. Similarwebsites can be
-  strong competition for our business in market and it can reduce our
-  customers.")
+  ![](/images/tr.jpg)
 
 
   **Technology Risk**
@@ -26,19 +22,14 @@ subtitle: >-
   it leads to our venture towards loss.
 
 
-  **Market Risk**:
+  - - -
 
 
-  It can be also a big risk in social media website venture because there are
-  lot of websites
-
-
-  available in the market and all have different features and different
-  technology. Similar
-
-
-  websites can be strong competition for our business in market and it can
-  reduce our customers.
+  ![](/images/pic01.jpg "Market Risk:It can be also a big risk in social media
+  website venture because there are lot of websitesavailable in the market and
+  all have different features and different technology. Similarwebsites can be
+  strong competition for our business in market and it can reduce our
+  customers.")
 
 
   **Financial Risk:**
