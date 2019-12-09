@@ -1,6 +1,8 @@
 ---
 title: Strategies
-subtitle: >2-
+subtitle: >-
+  ![](/images/stre.png)
+
    Strategies-
 
    I want to distribute all the tasks between my employees and allies that are as following:
