@@ -1,11 +1,11 @@
 ---
 title: Risks
 subtitle: >-
-  Risks in social media websites venture are technology, market, financial,
-  government and team:
-
-
-  **Technology Risk:**
+  ![](/images/tr.jpg "Market Risk:It can be also a big risk in social media
+  website venture because there are lot of websitesavailable in the market and
+  all have different features and different technology. Similarwebsites can be
+  strong competition for our business in market and it can reduce our
+  customers.")
 
 
   In these days, technology develops on regular basis so if we do not go with
