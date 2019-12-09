@@ -12,9 +12,6 @@ banner:
     label: Learn More
     url: '#one'
   subtitle: >-
-    ![](/images/banner.jpg)
-
-
     ![](/images/pic02.jpg)
 
 
