@@ -1,7 +1,7 @@
 ---
 title: Risks
 subtitle: >-
-  ![](/images/tr.jpg)
+  ![](/images/tech.jpg)
 
 
   **Technology Risk**
