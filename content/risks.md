@@ -25,14 +25,29 @@ subtitle: >-
   - - -
 
 
-  ![](/images/pic01.jpg "Market Risk:It can be also a big risk in social media
-  website venture because there are lot of websitesavailable in the market and
-  all have different features and different technology. Similarwebsites can be
-  strong competition for our business in market and it can reduce our
-  customers.")
+  **Market Risk:**
+
+
+  ![](/images/mr.jpg)
+
+
+  It can be also a big risk in social media website venture because there are
+  lot of websites
+
+  available in the market and all have different features and different
+  technology. Similar
+
+  websites can be strong competition for our business in market and it can
+  reduce our customers
+
+
+  - - -
 
 
   **Financial Risk:**
+
+
+  ![](/images/fr.jpg)
 
 
   When we start a new business, we all need money and we must do investment in
@@ -50,7 +65,13 @@ subtitle: >-
   on our business.
 
 
+  - - -
+
+
   **Team Risk:**
+
+
+  ![](/images/tr.jpg)
 
 
   Team is a most important factor in a business because without a cooperative
@@ -65,7 +86,16 @@ subtitle: >-
   for our business.
 
 
+  ![](<>)
+
+
+  - - -
+
+
   **Government Risk:**
+
+
+  ![](/images/gr.jpg)
 
 
   Before starting a business, we need to get permission from the higher
