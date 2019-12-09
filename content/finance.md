@@ -1,6 +1,9 @@
 ---
 title: Finance
 subtitle: >-
+  ![](/images/hero-finance-hub.jpg)
+
+
   The most important stakeholders in this venture are businessmen of companies
   who want to use
    social media sites for advertisements of their brands. They will request for pop-up ads of their
